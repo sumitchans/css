@@ -1,0 +1,16 @@
+.menubar{
+  background-color:black;
+  }
+
+.menubar > ul li{
+  list-style:none;
+  margin-right:25px;
+  display:inline-block;
+  margin:0;
+  padding:15px 0px;
+  }
+
+.menubar ul li a{
+  text-decoration:none;
+  color:white;
+  margin:0px 20px;
